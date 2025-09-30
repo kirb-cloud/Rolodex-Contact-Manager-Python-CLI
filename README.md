@@ -31,9 +31,12 @@ Rolodex Menu
  5. Save & Quit
 Please choose from the following options: 1
 
-Number of contacts: 2
-1 John Doe
- 555-1234
- 123 Elm St
- Pleasantville 90210
+Number of contacts: 2  
+1 John Doe  
+ 555-1234  
+ 123 Elm St  
+ Pleasantville 90210  
+
+
+
 
