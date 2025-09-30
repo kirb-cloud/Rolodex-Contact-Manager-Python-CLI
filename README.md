@@ -12,15 +12,16 @@ A lightweight and interactive **Command-Line Contact Manager** built in Python. 
 | Add New Contacts | Create and sort new contact entries. |
 | Input Validation | Robust integer and yes/no validation via `check_input.py`. |
 
-## 📂 Project Structure
+## Project Structure
 
 rolodex-contact-manager/
- main.py # Core program logic & menu system
- contacts.py # Contact class (data model + sorting + formatting)
- check_input.py # Input validation utilities
- addresses.txt # Stored contacts 
+│── main.py # Core program logic & menu system
+│── contacts.py # Contact class (data model + sorting + formatting)
+│── check_input.py # Input validation utilities
+│── addresses.txt # Stored contacts
+│── README.md # Project documentation
 
-## Example Program Interface, Input, Output
+## Example Interface, Input, Output
 
 Rolodex Menu
  1. Display Contacts
@@ -35,3 +36,4 @@ Number of contacts: 2
  555-1234
  123 Elm St
  Pleasantville 90210
+
