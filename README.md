@@ -14,13 +14,14 @@ A lightweight and interactive **Command-Line Contact Manager** built in Python. 
 
 ## Project Structure
 
+```
 rolodex-contact-manager
 │── main.py: Core program logic & menu system
 │── contacts.py: Contact class (data model + sorting + formatting)
 │── check_input.py: Input validation utilities
 │── addresses.txt: Stored contacts
 │── README.md: Project documentation
-
+```
 
 ## Example Interface, Input, Output
 
